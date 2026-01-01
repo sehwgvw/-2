@@ -1,1 +1,0 @@
-Profile @{username} (ID: {id}) serves as a financial hub for funding illegal paramilitary groups.

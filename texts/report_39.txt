@@ -1,1 +1,0 @@
-Profile @{username} (ID: {id}) is a fake exchange platform designed to steal user deposits.

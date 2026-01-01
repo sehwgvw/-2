@@ -1,1 +1,0 @@
-Reporting @{username} (ID: {id}) for a 'crypto-drainer' scam stealing digital assets.

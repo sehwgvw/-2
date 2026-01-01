@@ -1,1 +1,0 @@
-@{username} (ID: {id}) is running a massive phishing operation targeting bank credentials.

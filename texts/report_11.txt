@@ -1,1 +1,0 @@
-URGENT: User @{username} (ID: {id}) is distributing links to prohibited content involving minors.

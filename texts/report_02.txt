@@ -1,1 +1,0 @@
-Reporting @{username} (ID: {id}) for sharing manuals on creating improvised explosive devices (IEDs).

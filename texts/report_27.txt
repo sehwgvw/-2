@@ -1,1 +1,0 @@
-@{username} (ID: {id}) is using Telegram to facilitate the global trade of heroin and fentanyl.
